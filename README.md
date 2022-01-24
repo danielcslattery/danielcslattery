@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm an aspiring full stack developer with interest in GIS Technologies
 
 <!--
 **danielcslattery/danielcslattery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on improving the code in my [Property Manager Project](https://github.com/danielcslattery/PropertyManager)
+- 🌱 I’m currently learning more Spring Boot
+- 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/daniel-c-slattery/), I am looking for work!
